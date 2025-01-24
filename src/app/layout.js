@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Tariqul Islam",
-  description: "This is a personal website of Tariqul Islam.",
+  title: "simple-blog",
+  description: "This is a simple-blog website.",
 };
 
 export default function RootLayout({ children }) {
