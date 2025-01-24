@@ -5,3 +5,4 @@ export default async function getUser() {
     const user = await getUser(); 
     return user;
 }
+getUser.displayName = "MyComponent";

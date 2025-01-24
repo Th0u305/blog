@@ -15,5 +15,5 @@ const Home = async () => {
     </div>
   );
 };
-
+Home.displayName = "MyComponent";
 export default Home;

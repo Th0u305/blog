@@ -43,5 +43,5 @@ const Navbar = async () => {
         </nav>
     );
 };
-
+Navbar.displayName = "MyComponent";
 export default Navbar;

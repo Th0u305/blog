@@ -10,5 +10,5 @@ const withAuthPrivate = async ({ children }) => {
 
     return <Link href="/login"></Link>;
 }
-
+withAuthPrivate.displayName = "MyComponent";
 export default withAuthPrivate;

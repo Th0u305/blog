@@ -71,5 +71,5 @@ const NavbarSidebar = ({ email }) => {
         </>
     );
 };
-
+NavbarSidebar.displayName = "MyComponent";
 export default NavbarSidebar;

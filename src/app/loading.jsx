@@ -5,5 +5,5 @@ const loading = () => {
         </div>
     );
 };
-
+loading.displayName = "MyComponent";
 export default loading;
